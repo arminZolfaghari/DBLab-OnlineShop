@@ -1,0 +1,1002 @@
+[
+  {
+    "ID": 1,
+    "name": "Interactive South",
+    "address": "400 Mendoza Land Suite 138\nEast Jeremyview, KS 47606",
+    "supervisor_name": "SusanMurray",
+    "created_at": "2003-12-11 21:01:40",
+    "phone_number": "(651)944-90",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 2,
+    "name": "Advanced Adventure Net",
+    "address": "USNS Martinez\nFPO AP 61765",
+    "supervisor_name": "MichaelHolmes",
+    "created_at": "2010-04-20 10:36:10",
+    "phone_number": "(202)823-14",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 3,
+    "name": "General Resource Virtual",
+    "address": "11878 Shawn Manor Apt. 531\nMonicaburgh, FL 50220",
+    "supervisor_name": "ChelseaWood",
+    "created_at": "2021-12-06 00:00:23",
+    "phone_number": "(605)978-70",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 4,
+    "name": "Internet Innovation Net",
+    "address": "7471 Davis Islands\nLake Laurenborough, NY 67040",
+    "supervisor_name": "RaymondLee",
+    "created_at": "2019-04-30 16:23:56",
+    "phone_number": "(304)941-30",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 5,
+    "name": "Pacific Graphics",
+    "address": "6008 Dustin Pines\nWest Taylormouth, IN 84812",
+    "supervisor_name": "AlexWest",
+    "created_at": "2004-01-05 02:24:20",
+    "phone_number": "(270)634-81",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 6,
+    "name": "Resource Research Frontier",
+    "address": "PSC 0454, Box 7650\nAPO AE 04153",
+    "supervisor_name": "LauraYoung",
+    "created_at": "2000-10-11 16:12:30",
+    "phone_number": "(770)311-27",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 7,
+    "name": "Analysis Omega",
+    "address": "20382 Patrick Ford Suite 595\nPort Kevin, MD 17446",
+    "supervisor_name": "JohnBarker",
+    "created_at": "2014-01-17 11:26:28",
+    "phone_number": "(845)417-16",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 8,
+    "name": "Studio Electronics",
+    "address": "0605 Romero Corner Apt. 278\nLake Savannahport, RI 47097",
+    "supervisor_name": "NicholasDelgado",
+    "created_at": "2004-12-18 06:16:43",
+    "phone_number": "(847)985-41",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 9,
+    "name": "Building Solutions Architecture",
+    "address": "17113 Williams Locks Apt. 115\nChristopherville, CO 47182",
+    "supervisor_name": "AmberWaters",
+    "created_at": "2008-04-30 06:14:33",
+    "phone_number": "(208)828-43",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 10,
+    "name": "Innovation Vision",
+    "address": "2150 Derek Ramp\nEast Amanda, DC 52782",
+    "supervisor_name": "ChristopherChaney",
+    "created_at": "2017-11-01 06:36:23",
+    "phone_number": "(830)171-49",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 11,
+    "name": "Building Vision Architecture",
+    "address": "78578 Gilbert Mall Suite 465\nNorth Greggshire, NC 88433",
+    "supervisor_name": "SarahBurnett",
+    "created_at": "2004-06-21 18:50:33",
+    "phone_number": "(219)765-95",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 12,
+    "name": "Telecom Technology",
+    "address": "5285 Amanda Neck Suite 480\nWest Kevinview, MT 33093",
+    "supervisor_name": "TammyKing",
+    "created_at": "2003-08-17 01:30:22",
+    "phone_number": "(303)406-44",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 13,
+    "name": "Future Resource",
+    "address": "476 Christopher Course Apt. 282\nNorth Angie, VT 96055",
+    "supervisor_name": "TimothyGill",
+    "created_at": "1995-12-20 23:32:30",
+    "phone_number": "(936)440-99",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 14,
+    "name": "Pacific South Contract",
+    "address": "72676 Ryan Mission Suite 407\nKariton, VT 06757",
+    "supervisor_name": "JacobGordon",
+    "created_at": "2022-04-14 21:05:13",
+    "phone_number": "(240)816-47",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 15,
+    "name": "Electronics Venture Advanced",
+    "address": "45668 Travis Trace Apt. 309\nPort Andrew, NM 95241",
+    "supervisor_name": "JoshuaRyan",
+    "created_at": "2003-07-26 03:56:30",
+    "phone_number": "(914)171-19",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 16,
+    "name": "Solutions Studio Star",
+    "address": "7576 Mckinney Tunnel\nSouth Meghan, DC 49524",
+    "supervisor_name": "DouglasTravis",
+    "created_at": "2020-06-19 15:59:34",
+    "phone_number": "(254)750-76",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 17,
+    "name": "Advanced Speed",
+    "address": "63228 Jackson Junctions\nPort Maria, WI 76858",
+    "supervisor_name": "DerekJohnson",
+    "created_at": "1999-06-13 16:00:38",
+    "phone_number": "(727)709-31",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 18,
+    "name": "Frontier Research Contract",
+    "address": "597 Stephanie Vista Apt. 200\nBurgessport, VA 55172",
+    "supervisor_name": "AshleyCasey",
+    "created_at": "2000-01-03 14:40:52",
+    "phone_number": "(207)811-87",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 19,
+    "name": "Advanced West Pacific",
+    "address": "28188 Steve Port Apt. 337\nPort Meagan, NY 19288",
+    "supervisor_name": "TeresaLopez",
+    "created_at": "2007-07-13 12:41:21",
+    "phone_number": "(724)685-28",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 20,
+    "name": "Design Signal",
+    "address": "6590 Fowler Spurs\nBakerview, IN 34464",
+    "supervisor_name": "KyleJoseph",
+    "created_at": "2020-03-06 17:14:33",
+    "phone_number": "(567)536-24",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 21,
+    "name": "Software Speed",
+    "address": "3586 Nina Squares Suite 947\nEast Christophermouth, SC 40830",
+    "supervisor_name": "SamanthaSampson",
+    "created_at": "2008-07-17 06:22:10",
+    "phone_number": "(225)267-45",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 22,
+    "name": "Net Hardware Direct",
+    "address": "52381 Martin Locks Apt. 429\nPort Ruth, NJ 38131",
+    "supervisor_name": "DavidKelley",
+    "created_at": "1996-12-24 19:54:46",
+    "phone_number": "(859)470-62",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 23,
+    "name": "Solutions Studio",
+    "address": "9214 Mark Loaf Suite 471\nPhelpsville, MA 64475",
+    "supervisor_name": "ChristopherClark",
+    "created_at": "2002-12-26 13:23:36",
+    "phone_number": "(207)451-98",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 24,
+    "name": "People Star Vision",
+    "address": "687 Smith Oval\nSouth Jessicaville, OH 06263",
+    "supervisor_name": "BrendaManning",
+    "created_at": "2005-08-30 17:28:37",
+    "phone_number": "(941)210-37",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 25,
+    "name": "Speed Research",
+    "address": "050 Perkins Plain Apt. 350\nSouth Melissa, LA 60016",
+    "supervisor_name": "KimberlyHernandez",
+    "created_at": "1999-08-06 09:08:55",
+    "phone_number": "(859)673-17",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 26,
+    "name": "Resource Network",
+    "address": "PSC 8026, Box 8561\nAPO AE 06135",
+    "supervisor_name": "DonaldGill",
+    "created_at": "2008-05-16 12:16:04",
+    "phone_number": "(559)520-58",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 27,
+    "name": "Technology Medicine Venture",
+    "address": "119 Holloway Underpass Suite 241\nPort Tammy, AK 84634",
+    "supervisor_name": "JuanCain",
+    "created_at": "2014-10-30 00:05:02",
+    "phone_number": "(917)973-41",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 28,
+    "name": "Electronics Graphics Electronics",
+    "address": "96926 Nicholas Tunnel Suite 458\nWest Hannah, TN 93770",
+    "supervisor_name": "TimothyBurton",
+    "created_at": "2008-05-27 16:27:36",
+    "phone_number": "(716)168-38",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 29,
+    "name": "Building Hardware Solutions",
+    "address": "306 Tyler Stream\nPort George, GA 33980",
+    "supervisor_name": "CourtneyAdkins",
+    "created_at": "2021-09-20 11:51:20",
+    "phone_number": "(724)291-16",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 30,
+    "name": "Solutions Vision Hill",
+    "address": "449 Gonzalez Prairie\nWest Pamela, GA 31249",
+    "supervisor_name": "StevenChambers",
+    "created_at": "2005-09-29 17:43:53",
+    "phone_number": "(319)796-86",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 31,
+    "name": "Resource Universal",
+    "address": "670 Sherry Station Suite 318\nEast Matthewfurt, AR 22034",
+    "supervisor_name": "VincentLawrence",
+    "created_at": "2005-08-04 07:24:39",
+    "phone_number": "(507)678-99",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 32,
+    "name": "Alpha Adventure Federated",
+    "address": "8764 Ronald Hollow Apt. 907\nNew Larryburgh, MA 53342",
+    "supervisor_name": "ChristopherHopkins",
+    "created_at": "1995-04-21 05:00:03",
+    "phone_number": "(406)346-23",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 33,
+    "name": "Industries Direct",
+    "address": "8232 Jimmy Crossroad\nMorrowshire, OH 43492",
+    "supervisor_name": "KristenOlson",
+    "created_at": "2015-06-23 10:21:32",
+    "phone_number": "(731)915-34",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 34,
+    "name": "Network Frontier Hardware",
+    "address": "19603 Julie Prairie\nReneemouth, TX 18136",
+    "supervisor_name": "BryanHiggins",
+    "created_at": "2003-04-13 20:09:34",
+    "phone_number": "(330)348-30",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 35,
+    "name": "Electronic Universal Future",
+    "address": "9912 Deborah Light Apt. 313\nWest Fernandobury, KS 35913",
+    "supervisor_name": "MichaelCarlson",
+    "created_at": "2000-08-11 22:55:34",
+    "phone_number": "(785)729-50",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 36,
+    "name": "Electronic Application Vision",
+    "address": "946 Chavez Villages Suite 755\nGillshire, AL 81866",
+    "supervisor_name": "CarlosMayo",
+    "created_at": "2000-06-19 12:01:34",
+    "phone_number": "(972)506-12",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 37,
+    "name": "Solutions Solutions",
+    "address": "Unit 8949 Box 0304\nDPO AA 39395",
+    "supervisor_name": "RaymondPotts",
+    "created_at": "2013-08-23 23:29:55",
+    "phone_number": "(701)845-30",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 38,
+    "name": "Medicine Alpha Studio",
+    "address": "7753 Katelyn Wells Apt. 885\nLake Samantha, WI 36938",
+    "supervisor_name": "JohnTorres",
+    "created_at": "2008-05-24 01:31:13",
+    "phone_number": "(801)791-14",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 39,
+    "name": "Galaxy Architecture Venture",
+    "address": "0014 James Hollow Suite 603\nPaulville, PA 25842",
+    "supervisor_name": "BradleyWillis",
+    "created_at": "1995-07-12 02:52:58",
+    "phone_number": "(682)683-64",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 40,
+    "name": "Vision Innovation Adventure",
+    "address": "3053 Kidd Vista\nPort Gloria, WA 83791",
+    "supervisor_name": "BrianWhite",
+    "created_at": "1996-09-20 17:13:34",
+    "phone_number": "(502)552-18",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 41,
+    "name": "Architecture Advanced Application",
+    "address": "3965 Kristy Mission\nEast Veronicamouth, AR 08674",
+    "supervisor_name": "TeresaChristensen",
+    "created_at": "2002-06-18 14:20:56",
+    "phone_number": "(781)135-95",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 42,
+    "name": "Technology Consulting",
+    "address": "19218 Russo River\nNorth Joshua, NH 23180",
+    "supervisor_name": "SergioShaw",
+    "created_at": "2006-10-25 07:55:01",
+    "phone_number": "(227)775-53",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 43,
+    "name": "Advanced Data",
+    "address": "USCGC Knapp\nFPO AP 46204",
+    "supervisor_name": "ToddFreeman",
+    "created_at": "2006-05-07 12:36:31",
+    "phone_number": "(917)565-13",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 44,
+    "name": "Omega Bell Innovation",
+    "address": "753 Mary Drive Suite 036\nFoxton, WA 82808",
+    "supervisor_name": "GregoryDavis",
+    "created_at": "2009-06-08 16:40:27",
+    "phone_number": "(915)638-69",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 45,
+    "name": "Alpha Star",
+    "address": "Unit 6188 Box 8579\nDPO AA 02226",
+    "supervisor_name": "RichardGriffin",
+    "created_at": "2019-11-08 09:28:39",
+    "phone_number": "(208)135-76",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 46,
+    "name": "Hill Contract Speed",
+    "address": "2286 Strong Station Suite 679\nNew Alexisport, TX 64614",
+    "supervisor_name": "AprilDavis",
+    "created_at": "2018-05-22 17:29:31",
+    "phone_number": "(512)538-34",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 47,
+    "name": "Contract East Provider",
+    "address": "92385 Brown Rest\nMichellefort, MT 61139",
+    "supervisor_name": "PamelaFranco",
+    "created_at": "2008-05-17 19:27:17",
+    "phone_number": "(408)574-94",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 48,
+    "name": "Analysis Internet",
+    "address": "57131 Ford Lakes Apt. 932\nMichelleshire, ND 13728",
+    "supervisor_name": "SarahWilson",
+    "created_at": "1998-03-06 20:19:57",
+    "phone_number": "(831)581-40",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 49,
+    "name": "Bell Software Graphics",
+    "address": "0261 Tammy Dale\nKellystad, MD 60065",
+    "supervisor_name": "MartinRivas",
+    "created_at": "1994-04-24 05:47:20",
+    "phone_number": "(641)629-77",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 50,
+    "name": "Net General Signal",
+    "address": "USCGC Palmer\nFPO AP 70473",
+    "supervisor_name": "LisaFarrell",
+    "created_at": "2004-05-11 13:00:28",
+    "phone_number": "(405)168-30",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 51,
+    "name": "Consulting Electronic Solutions",
+    "address": "USCGC Quinn\nFPO AE 27609",
+    "supervisor_name": "KimberlyBrown",
+    "created_at": "1997-12-17 17:45:03",
+    "phone_number": "(775)485-21",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 52,
+    "name": "Electronic Medicine Hardware",
+    "address": "5195 Smith Extension Apt. 757\nNorth Jeremyview, WY 59942",
+    "supervisor_name": "VeronicaBooth",
+    "created_at": "2001-03-04 12:05:31",
+    "phone_number": "(715)736-94",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 53,
+    "name": "Data Power Net",
+    "address": "44900 Boone Forest Apt. 614\nSouth Jeffrey, FL 61499",
+    "supervisor_name": "TammyShort",
+    "created_at": "2006-05-13 08:10:15",
+    "phone_number": "(706)899-97",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 54,
+    "name": "Electronics North Data",
+    "address": "7783 Rebecca Lake Apt. 190\nLucasside, MT 48625",
+    "supervisor_name": "JillPorter",
+    "created_at": "2016-08-25 00:28:59",
+    "phone_number": "(660)931-87",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 55,
+    "name": "Net Federated",
+    "address": "911 Spencer Points\nPort Elizabeth, CA 85735",
+    "supervisor_name": "JamesJones",
+    "created_at": "1994-03-26 23:30:52",
+    "phone_number": "(805)342-64",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 56,
+    "name": "Industries Graphics Software",
+    "address": "890 Kelley Dam Suite 175\nSamuelberg, NC 79836",
+    "supervisor_name": "TimothyJohnson",
+    "created_at": "1994-07-25 22:49:57",
+    "phone_number": "(541)605-89",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 57,
+    "name": "Universal Galaxy Research",
+    "address": "695 Brennan Walk Apt. 004\nAliciafort, ND 29839",
+    "supervisor_name": "AnthonyMarshall",
+    "created_at": "2019-12-11 19:03:42",
+    "phone_number": "(850)848-93",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 58,
+    "name": "Graphics Alpha",
+    "address": "011 Moran Tunnel Suite 376\nGrayville, MD 58334",
+    "supervisor_name": "SarahWatson",
+    "created_at": "2006-08-22 08:42:01",
+    "phone_number": "(586)759-21",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 59,
+    "name": "Building Alpha Advanced",
+    "address": "1934 Samantha Viaduct\nFishermouth, DE 23341",
+    "supervisor_name": "JenniferSmith",
+    "created_at": "1996-02-12 00:12:23",
+    "phone_number": "(805)142-72",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 60,
+    "name": "Systems East Hardware",
+    "address": "6778 Joshua Throughway\nNorth Juliebury, RI 05948",
+    "supervisor_name": "BethRobinson",
+    "created_at": "2001-09-24 16:15:30",
+    "phone_number": "(303)677-56",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 61,
+    "name": "Hill Solutions People",
+    "address": "783 Peterson Trail Suite 526\nMorrisburgh, AR 78814",
+    "supervisor_name": "ChristopherGreen",
+    "created_at": "2002-07-17 08:55:14",
+    "phone_number": "(260)990-11",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 62,
+    "name": "Universal Graphics Solutions",
+    "address": "2526 Brandon Extension Suite 089\nBrownburgh, CO 79382",
+    "supervisor_name": "SherryWard",
+    "created_at": "1998-10-15 08:38:39",
+    "phone_number": "(712)588-35",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 63,
+    "name": "Technology Contract Resource",
+    "address": "209 Carmen Squares Suite 846\nEast Alexisshire, IN 36819",
+    "supervisor_name": "GrantAlexander",
+    "created_at": "1998-06-13 02:12:48",
+    "phone_number": "(714)165-53",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 64,
+    "name": "Electronics Technology Vision",
+    "address": "5045 Ashley Highway Suite 604\nLoganton, CA 45820",
+    "supervisor_name": "GinaWarren",
+    "created_at": "2019-11-29 14:15:42",
+    "phone_number": "(605)284-50",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 65,
+    "name": "Network Venture",
+    "address": "PSC 8632, Box 4727\nAPO AE 39147",
+    "supervisor_name": "ScottRichards",
+    "created_at": "2021-06-24 13:44:47",
+    "phone_number": "(501)241-37",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 66,
+    "name": "Omega Graphics Vision",
+    "address": "831 Robert Cliffs\nWilliamburgh, AL 35594",
+    "supervisor_name": "CharlesWeeks",
+    "created_at": "1995-05-26 12:58:11",
+    "phone_number": "(203)547-77",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 67,
+    "name": "Atlantic Technology",
+    "address": "2370 Wu Points Suite 653\nShawnshire, AR 38392",
+    "supervisor_name": "KrystalBailey",
+    "created_at": "2020-12-22 18:41:56",
+    "phone_number": "(641)190-38",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 68,
+    "name": "Pacific Hill Design",
+    "address": "983 Kristin Ways Suite 762\nMorganshire, NH 67839",
+    "supervisor_name": "KathyDavis",
+    "created_at": "2008-10-29 07:13:15",
+    "phone_number": "(435)906-45",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 69,
+    "name": "Speed East Design",
+    "address": "0990 Allison Curve\nLake Saraville, MN 46934",
+    "supervisor_name": "AmandaNelson",
+    "created_at": "2014-10-18 19:23:41",
+    "phone_number": "(608)286-35",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 70,
+    "name": "Speed Net Electronic",
+    "address": "3457 William Ports\nMichelleberg, MS 85906",
+    "supervisor_name": "JasonFlores",
+    "created_at": "2012-12-04 12:50:19",
+    "phone_number": "(318)658-41",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 71,
+    "name": "Innovation Provider Telecom",
+    "address": "02731 Caleb Falls\nWest Andrew, SD 24120",
+    "supervisor_name": "NathanDavila",
+    "created_at": "1996-05-18 14:21:18",
+    "phone_number": "(702)590-94",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 72,
+    "name": "Network Interactive",
+    "address": "142 Young Field\nNew Benjamin, CO 25468",
+    "supervisor_name": "VictorWarren",
+    "created_at": "1994-01-19 11:49:33",
+    "phone_number": "(505)973-63",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 73,
+    "name": "Internet Vision",
+    "address": "272 Heather Divide\nLake David, WY 24126",
+    "supervisor_name": "BrittanyRodriguez",
+    "created_at": "1996-01-31 00:42:35",
+    "phone_number": "(240)909-59",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 74,
+    "name": "Virtual Network",
+    "address": "3331 Jones Turnpike Apt. 967\nAmyborough, NM 78965",
+    "supervisor_name": "StephanieParrish",
+    "created_at": "1992-12-16 07:41:58",
+    "phone_number": "(717)485-41",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 75,
+    "name": "Design Alpha",
+    "address": "5907 Avila Bridge\nJoneschester, AR 86930",
+    "supervisor_name": "ZacharyMorgan",
+    "created_at": "2015-06-27 12:30:10",
+    "phone_number": "(619)373-34",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 76,
+    "name": "Digital Provider Virtual",
+    "address": "04336 Cook Gardens\nDavisville, LA 45843",
+    "supervisor_name": "MichaelRogers",
+    "created_at": "2020-03-31 05:40:56",
+    "phone_number": "(580)819-35",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 77,
+    "name": "Graphics Atlantic",
+    "address": "004 Brianna Meadow Suite 483\nConwayfort, IN 13432",
+    "supervisor_name": "RobertHolt",
+    "created_at": "2008-06-10 21:22:57",
+    "phone_number": "(323)691-89",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 78,
+    "name": "Hill Software",
+    "address": "8339 Carson Avenue Suite 001\nCrystalmouth, WI 79102",
+    "supervisor_name": "WilliamNovak",
+    "created_at": "1993-04-16 20:02:17",
+    "phone_number": "(563)682-87",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 79,
+    "name": "Vision Hardware North",
+    "address": "49967 Sean Estate\nBondstad, MA 33097",
+    "supervisor_name": "AngieMorgan",
+    "created_at": "2016-06-16 00:37:53",
+    "phone_number": "(859)317-40",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 80,
+    "name": "Construction Software",
+    "address": "USNS Jackson\nFPO AE 60707",
+    "supervisor_name": "JorgeSchwartz",
+    "created_at": "2009-01-18 10:29:24",
+    "phone_number": "(857)430-39",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 81,
+    "name": "Frontier Hardware Alpha",
+    "address": "685 Christina Bypass\nWest Sheri, OH 06103",
+    "supervisor_name": "KennethAllen",
+    "created_at": "2009-07-08 11:22:43",
+    "phone_number": "(281)866-42",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 82,
+    "name": "Innovation North South",
+    "address": "96010 Kyle Junctions\nJessicahaven, NM 82020",
+    "supervisor_name": "LisaLee",
+    "created_at": "1992-10-02 12:40:07",
+    "phone_number": "(835)282-98",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 83,
+    "name": "Omega Technology Systems",
+    "address": "389 Meyers Ways Suite 461\nChadshire, IA 93887",
+    "supervisor_name": "JessicaTravis",
+    "created_at": "2012-04-01 15:21:11",
+    "phone_number": "(763)776-34",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 84,
+    "name": "Atlantic Building",
+    "address": "38644 Susan Walk\nWest Sharonchester, IL 74979",
+    "supervisor_name": "RichardMitchell",
+    "created_at": "1997-03-21 03:54:21",
+    "phone_number": "(949)228-44",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 85,
+    "name": "Vision Adventure Studio",
+    "address": "705 Sheila Freeway Suite 428\nPort Pamela, AZ 15807",
+    "supervisor_name": "JesseJennings",
+    "created_at": "2016-03-01 15:21:03",
+    "phone_number": "(475)785-81",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 86,
+    "name": "Frontier Studio Advanced",
+    "address": "969 Chloe Crest\nNew Douglasbury, AR 24193",
+    "supervisor_name": "AnitaHodges",
+    "created_at": "2004-05-18 06:16:07",
+    "phone_number": "(208)310-49",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 87,
+    "name": "Federated Speed Data",
+    "address": "809 Barber Forges Apt. 634\nWest Debbieside, CO 13511",
+    "supervisor_name": "MatthewBrown",
+    "created_at": "2011-11-10 11:58:10",
+    "phone_number": "(256)801-12",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 88,
+    "name": "Galaxy Omega",
+    "address": "84761 Stephanie Plains Suite 987\nEast Michael, DE 11813",
+    "supervisor_name": "LukeMoore",
+    "created_at": "1996-12-19 14:01:50",
+    "phone_number": "(202)137-36",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 89,
+    "name": "Galaxy Medicine",
+    "address": "553 Liu Mission\nVincentville, KY 46084",
+    "supervisor_name": "RobertWhite",
+    "created_at": "2000-01-15 02:32:37",
+    "phone_number": "(207)804-69",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 90,
+    "name": "General Graphics Hill",
+    "address": "2488 Macias River\nBellbury, MI 04503",
+    "supervisor_name": "JuanSmith",
+    "created_at": "2012-01-30 18:28:20",
+    "phone_number": "(415)926-80",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 91,
+    "name": "Contract Innovation Power",
+    "address": "9317 Lisa Plaza\nLake Karen, KS 23004",
+    "supervisor_name": "TanyaRamirez",
+    "created_at": "2009-12-22 21:40:07",
+    "phone_number": "(406)976-88",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 92,
+    "name": "Internet Solutions Frontier",
+    "address": "31195 Richard Summit\nSouth Sara, AL 29900",
+    "supervisor_name": "BrianFoley",
+    "created_at": "2021-01-10 18:52:30",
+    "phone_number": "(737)155-92",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 93,
+    "name": "Alpha General Frontier",
+    "address": "3084 Jensen Corner\nCaldwellborough, AK 97500",
+    "supervisor_name": "JenniferHarris",
+    "created_at": "1998-07-13 15:15:48",
+    "phone_number": "(215)413-34",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 94,
+    "name": "Solutions Contract Speed",
+    "address": "Unit 0963 Box 7182\nDPO AP 56800",
+    "supervisor_name": "JaniceKennedy",
+    "created_at": "1993-03-07 15:54:10",
+    "phone_number": "(224)355-46",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 95,
+    "name": "Telecom Data Innovation",
+    "address": "4795 Mullins Ranch\nJuliahaven, IA 82555",
+    "supervisor_name": "DanielDixon",
+    "created_at": "1999-01-02 23:36:03",
+    "phone_number": "(214)297-95",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 96,
+    "name": "Virtual Design Electronics",
+    "address": "USS White\nFPO AA 78380",
+    "supervisor_name": "EthanMartin",
+    "created_at": "1994-03-08 17:44:11",
+    "phone_number": "(502)199-55",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 97,
+    "name": "Galaxy Alpha Advanced",
+    "address": "23078 Kathryn Circles\nLake William, CA 92743",
+    "supervisor_name": "JosephRobertson",
+    "created_at": "2019-01-14 11:15:20",
+    "phone_number": "(304)628-44",
+    "independent": 1,
+    "is_deleted": 0
+  },
+  {
+    "ID": 98,
+    "name": "Electronics Alpha Application",
+    "address": "89826 Brandon Gardens\nMartinborough, RI 38182",
+    "supervisor_name": "MariaOsborne",
+    "created_at": "2012-01-22 13:03:06",
+    "phone_number": "(351)351-35",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 99,
+    "name": "Bell Technology Digital",
+    "address": "341 Michelle Trafficway\nEast Jamesville, DE 77363",
+    "supervisor_name": "ChristinaCollins",
+    "created_at": "1996-01-18 20:58:48",
+    "phone_number": "(804)348-82",
+    "independent": 0,
+    "is_deleted": 0
+  },
+  {
+    "ID": 100,
+    "name": "Frontier Net Provider",
+    "address": "84112 Eric Glens\nLowerystad, NE 96996",
+    "supervisor_name": "StacieCollier",
+    "created_at": "2016-01-14 14:52:42",
+    "phone_number": "(434)761-64",
+    "independent": 1,
+    "is_deleted": 0
+  }
+]
