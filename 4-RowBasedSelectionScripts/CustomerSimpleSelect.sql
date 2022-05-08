@@ -1,0 +1,1 @@
+SELECT name, created_at FROM Customer;
