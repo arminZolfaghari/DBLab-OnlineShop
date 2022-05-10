@@ -1,0 +1,4 @@
+USE OnlineShopDigiKala;
+
+SELECT customer_ID FROM Payment
+WHERE amount BETWEEN 20000000 AND 30000000;
